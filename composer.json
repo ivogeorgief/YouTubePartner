@@ -1,5 +1,5 @@
 {
-    "name": "janyksteenbeek/youtubepartner",
+    "name": "ivogeorgief/youtubepartner",
     "description": "PHP library for Youtube Content ID API v1",
     "type": "package",
     "require": {

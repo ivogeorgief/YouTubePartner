@@ -1,7 +1,9 @@
 PHP library for Youtube Content ID API v1
 
+based on janyksteenbeek/YouTubePartner
 
-Created on 2019-04-02 at 10:27:39 UTC
+
+Created on 2022-08-16 at 15:00:00 UTC
 
 Requirements:
 
